@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833561667391",
+    "project_id": "trialapp-e0fb0",
+    "storage_bucket": "trialapp-e0fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833561667391:android:5f032d30f4111e305a158a",
+        "android_client_info": {
+          "package_name": "com.abhigund.TrialApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDU5MiotvTJx-xW3Riy1Q-uQVKxEHqvE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
