@@ -31,7 +31,7 @@ export default function App() {
         onPressLink={(link) => Linking.openURL(link)}
         onLoadProgress={(percentage) => console.log(`loading : ${percentage}`)}
         scale={0.5}
-        minScale={0.5}
+        // minScale={0.5}
         // page={5}
         spacing={50}
       />
