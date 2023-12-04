@@ -7,10 +7,17 @@ import {
   View,
 } from "react-native";
 import React from "react";
+import Search from "./assets/search.svg";
+import TestIcon from "./assets/TestIcon.svg";
 import Pdf from "react-native-pdf";
+// import SvgUri from "react-native-svg";
 export default function App() {
   return (
-    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
+    <View style={{ justifyContent: "center", alignItems: "center", flex: 1 }}>
+      <TestIcon height={60} width={60} />
+
+      <Text>Hello World!</Text>
+
       <Pdf
         trustAllCerts={false}
         source={{
